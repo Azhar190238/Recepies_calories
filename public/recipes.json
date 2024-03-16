@@ -1,0 +1,75 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Stir Fry",
+      "recipe_image": "https://i.ibb.co/ZB12Dk5/food1.png",
+      "short_description": "A delicious and healthy chicken stir fry with vegetables.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
+      "preparing_time": 30,
+      "calories": 320 
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Curry",
+      "recipe_image": "https://i.ibb.co/415wMB4/food2.png",
+      "short_description": "A flavorful vegetable curry with a blend of spices.",
+      "ingredients": ["300 g mixed vegetables", "150 g coconut milk", "100 g curry paste"],
+      "preparing_time": 45,
+      "calories": 250 
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://i.ibb.co/fxQpPmp/food3.jpg",
+      "short_description": "Classic Italian pasta dish made with bacon, eggs, and cheese.",
+      "ingredients": ["400 g spaghetti", "4 eggs", "100 g grated Parmesan cheese"],
+      "preparing_time": 20,
+      "calories": 400 
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Caprese Salad",
+      "recipe_image": "https://i.ibb.co/hVCj8fM/food4.jpg",
+      "short_description": "A simple and refreshing salad made with tomatoes, mozzarella, and basil.",
+      "ingredients": ["4 large tomatoes", "200 g bacon", "200 g mozzarella cheese", "50 g fresh basil leaves", "2 tbsp olive oil"],
+      "preparing_time": 15,
+      "calories": 180
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Grilled Salmon",
+      "recipe_image": "https://i.ibb.co/tCB3G0T/food5.jpg",
+      "short_description": "Healthy and flavorful grilled salmon seasoned with herbs.",
+      "ingredients": ["4 salmon fillets", "2 tbsp olive oil", "1 lemon", "Salt and pepper to taste"],
+      "preparing_time": 25 ,
+      "calories": 300
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Banana Bread",
+      "recipe_image": "https://i.ibb.co/G2p1Rgw/food6.jpg",
+      "short_description": "Moist and delicious banana bread perfect for breakfast or snack.",
+      "ingredients": ["3 ripe bananas", "200 g all-purpose flour", "100 g sugar", "1 tsp baking powder"],
+      "preparing_time": 60,
+      "calories": 200 
+    },
+    {
+      "recipe_id": 7,
+      "recipe_name": "Mushroom Risotto",
+      "recipe_image": "https://i.ibb.co/2Z2B0gf/food7-1.jpg",
+      "short_description": "Creamy and savory mushroom risotto cooked to perfection.",
+      "ingredients": ["300 g Arborio rice", "200 g mushrooms", "1 onion", "1 liter vegetable broth"],
+      "preparing_time": 35 ,
+      "calories": 350 
+    },
+    {
+      "recipe_id": 8,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_image": "https://i.ibb.co/tCB3G0T/food5.jpg",
+      "short_description": "Soft and chewy chocolate chip cookies, a classic favorite.",
+      "ingredients": ["200 g all-purpose flour", "100 g butter", "150 g chocolate chips", "100 g brown sugar"],
+      "preparing_time": 20,
+      "calories": 150 
+    }
+  ]
+  
