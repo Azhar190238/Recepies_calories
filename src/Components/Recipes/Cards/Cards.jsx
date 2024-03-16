@@ -33,7 +33,7 @@ const Cards = () => {
     }
 
     return (
-        <div className="flex">
+        <div className="flex flex-col md:flex-row">
             <div className="md:w-2/3 grid grid-cols-1 md:grid-cols-2">
                 {cards.map(card => (
                     <Card
@@ -44,7 +44,9 @@ const Cards = () => {
                 ))}
             </div>
             <div>
-                <Cooks cooks={cooks} />
+                <Cooks cooks={cooks}
+                setCooks={setCooks}
+                 />
             </div>
             <ToastContainer />
         </div>
@@ -53,7 +55,8 @@ const Cards = () => {
 
 Cards.propTypes = {
     wantToCookHandler: PropTypes.func,
-    cooks: PropTypes.array
+    cooks: PropTypes.array,
+    setCooks:PropTypes.array
 };
 
 export default Cards;
