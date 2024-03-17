@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className='lg:mx-20 my-10'>
-
+{/* all Components here */}
      <Header></Header>
      <Banner></Banner>
      <Recipes></Recipes>
