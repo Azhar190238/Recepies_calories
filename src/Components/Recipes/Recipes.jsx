@@ -10,6 +10,7 @@ const Recipes = () => {
             <p>Recipes. Find and share everyday cooking inspiration on Allrecipes. Discover recipes, cooks, videos, and how-tos <br /> based on the food you love and the friends you follow.</p>
            </div>
            <div >
+            {/* card component */}
            <Cards> </Cards>
           
            </div>
